@@ -1,0 +1,476 @@
+{
+  "metadata": {
+    "transaction_key": "deprecated",
+    "request_id": "11b6f528-12f2-454f-a83e-87337dc99fd7",
+    "sha256": "e8976335f16075efa84aea00795c7a398732e262bf5af724e8e92574fc4b350c",
+    "created": "2024-08-31T18:47:16.799Z",
+    "duration": 23.745312,
+    "channels": 1,
+    "models": ["1abfe86b-e047-4eed-858a-35e5625b41ee"],
+    "model_info": {
+      "1abfe86b-e047-4eed-858a-35e5625b41ee": {
+        "name": "2-general-nova",
+        "version": "2024-01-06.5664",
+        "arch": "nova-2"
+      }
+    }
+  },
+  "results": {
+    "channels": [
+      {
+        "alternatives": [
+          {
+            "transcript": "hey can you see the circles this beautifully animating circles moving along across their two dimensional points and also the ai generated church at the background i am building this as a test youtube shorts builder to test it on tools like remotion and motion canvas and also revideo do you know that motion canvas and revideo have a spicy drama going on that being said all these tools are great to work with",
+            "confidence": 0.9967714,
+            "words": [
+              {
+                "word": "hey",
+                "start": 0.16,
+                "end": 0.39999998,
+                "confidence": 0.94357705
+              },
+              {
+                "word": "can",
+                "start": 0.39999998,
+                "end": 0.48,
+                "confidence": 0.9991818
+              },
+              {
+                "word": "you",
+                "start": 0.48,
+                "end": 0.71999997,
+                "confidence": 0.9998969
+              },
+              {
+                "word": "see",
+                "start": 0.71999997,
+                "end": 0.96,
+                "confidence": 0.9999658
+              },
+              {
+                "word": "the",
+                "start": 0.96,
+                "end": 1.12,
+                "confidence": 0.9969062
+              },
+              {
+                "word": "circles",
+                "start": 1.12,
+                "end": 1.52,
+                "confidence": 0.7433317
+              },
+              {
+                "word": "this",
+                "start": 1.52,
+                "end": 1.76,
+                "confidence": 0.85491526
+              },
+              {
+                "word": "beautifully",
+                "start": 1.76,
+                "end": 2.26,
+                "confidence": 0.9942445
+              },
+              {
+                "word": "animating",
+                "start": 2.32,
+                "end": 2.8,
+                "confidence": 0.9911356
+              },
+              {
+                "word": "circles",
+                "start": 2.8,
+                "end": 3.1999998,
+                "confidence": 0.9154829
+              },
+              {
+                "word": "moving",
+                "start": 3.1999998,
+                "end": 3.6,
+                "confidence": 0.7239758
+              },
+              {
+                "word": "along",
+                "start": 3.6,
+                "end": 3.9199998,
+                "confidence": 0.9967714
+              },
+              {
+                "word": "across",
+                "start": 3.9199998,
+                "end": 4.24,
+                "confidence": 0.9988949
+              },
+              {
+                "word": "their",
+                "start": 4.24,
+                "end": 4.48,
+                "confidence": 0.9959234
+              },
+              {
+                "word": "two",
+                "start": 4.48,
+                "end": 4.64,
+                "confidence": 0.99931514
+              },
+              {
+                "word": "dimensional",
+                "start": 4.64,
+                "end": 5.14,
+                "confidence": 0.99576926
+              },
+              {
+                "word": "points",
+                "start": 5.2799997,
+                "end": 5.7799997,
+                "confidence": 0.7584349
+              },
+              {
+                "word": "and",
+                "start": 6.24,
+                "end": 6.48,
+                "confidence": 0.99705744
+              },
+              {
+                "word": "also",
+                "start": 6.48,
+                "end": 6.8799996,
+                "confidence": 0.82844883
+              },
+              {
+                "word": "the",
+                "start": 6.8799996,
+                "end": 7.2,
+                "confidence": 0.86511344
+              },
+              {
+                "word": "ai",
+                "start": 7.2,
+                "end": 7.52,
+                "confidence": 0.9919893
+              },
+              {
+                "word": "generated",
+                "start": 7.52,
+                "end": 8,
+                "confidence": 0.99960417
+              },
+              {
+                "word": "church",
+                "start": 8,
+                "end": 8.4,
+                "confidence": 0.9909315
+              },
+              {
+                "word": "at",
+                "start": 8.4,
+                "end": 8.559999,
+                "confidence": 0.9995183
+              },
+              {
+                "word": "the",
+                "start": 8.559999,
+                "end": 8.72,
+                "confidence": 0.999869
+              },
+              {
+                "word": "background",
+                "start": 8.72,
+                "end": 9.22,
+                "confidence": 0.96379423
+              },
+              {
+                "word": "i",
+                "start": 9.92,
+                "end": 10.16,
+                "confidence": 0.99947697
+              },
+              {
+                "word": "am",
+                "start": 10.16,
+                "end": 10.32,
+                "confidence": 0.99927396
+              },
+              {
+                "word": "building",
+                "start": 10.32,
+                "end": 10.719999,
+                "confidence": 0.9998994
+              },
+              {
+                "word": "this",
+                "start": 10.719999,
+                "end": 10.96,
+                "confidence": 0.9995721
+              },
+              {
+                "word": "as",
+                "start": 10.96,
+                "end": 11.28,
+                "confidence": 0.9904045
+              },
+              {
+                "word": "a",
+                "start": 11.28,
+                "end": 11.44,
+                "confidence": 0.9856281
+              },
+              {
+                "word": "test",
+                "start": 11.44,
+                "end": 11.76025,
+                "confidence": 0.99710125
+              },
+              {
+                "word": "youtube",
+                "start": 11.92025,
+                "end": 12.24025,
+                "confidence": 0.9806574
+              },
+              {
+                "word": "shorts",
+                "start": 12.24025,
+                "end": 12.56025,
+                "confidence": 0.8106237
+              },
+              {
+                "word": "builder",
+                "start": 12.56025,
+                "end": 12.96025,
+                "confidence": 0.8820137
+              },
+              {
+                "word": "to",
+                "start": 12.96025,
+                "end": 13.12025,
+                "confidence": 0.99593425
+              },
+              {
+                "word": "test",
+                "start": 13.12025,
+                "end": 13.36025,
+                "confidence": 0.9984896
+              },
+              {
+                "word": "it",
+                "start": 13.36025,
+                "end": 13.44025,
+                "confidence": 0.99889284
+              },
+              {
+                "word": "on",
+                "start": 13.44025,
+                "end": 13.60025,
+                "confidence": 0.9996867
+              },
+              {
+                "word": "tools",
+                "start": 13.60025,
+                "end": 13.92025,
+                "confidence": 0.99910283
+              },
+              {
+                "word": "like",
+                "start": 13.92025,
+                "end": 14.08025,
+                "confidence": 0.9325143
+              },
+              {
+                "word": "remotion",
+                "start": 14.08025,
+                "end": 14.58025,
+                "confidence": 0.9666836
+              },
+              {
+                "word": "and",
+                "start": 14.64025,
+                "end": 14.80025,
+                "confidence": 0.93951184
+              },
+              {
+                "word": "motion",
+                "start": 14.80025,
+                "end": 15.20025,
+                "confidence": 0.9173171
+              },
+              {
+                "word": "canvas",
+                "start": 15.20025,
+                "end": 15.68025,
+                "confidence": 0.8923688
+              },
+              {
+                "word": "and",
+                "start": 15.68025,
+                "end": 15.92025,
+                "confidence": 0.88952476
+              },
+              {
+                "word": "also",
+                "start": 15.92025,
+                "end": 16.16025,
+                "confidence": 0.9902401
+              },
+              {
+                "word": "revideo",
+                "start": 16.16025,
+                "end": 16.66025,
+                "confidence": 0.96649486
+              },
+              {
+                "word": "do",
+                "start": 17.040249,
+                "end": 17.20025,
+                "confidence": 0.9981674
+              },
+              {
+                "word": "you",
+                "start": 17.20025,
+                "end": 17.28025,
+                "confidence": 0.99976474
+              },
+              {
+                "word": "know",
+                "start": 17.28025,
+                "end": 17.52025,
+                "confidence": 0.9999318
+              },
+              {
+                "word": "that",
+                "start": 17.52025,
+                "end": 17.68025,
+                "confidence": 0.9998522
+              },
+              {
+                "word": "motion",
+                "start": 17.68025,
+                "end": 18.08025,
+                "confidence": 0.9893463
+              },
+              {
+                "word": "canvas",
+                "start": 18.08025,
+                "end": 18.48025,
+                "confidence": 0.99580026
+              },
+              {
+                "word": "and",
+                "start": 18.48025,
+                "end": 18.64025,
+                "confidence": 0.9995466
+              },
+              {
+                "word": "revideo",
+                "start": 18.64025,
+                "end": 19.14025,
+                "confidence": 0.99849784
+              },
+              {
+                "word": "have",
+                "start": 19.20025,
+                "end": 19.36025,
+                "confidence": 0.9984706
+              },
+              {
+                "word": "a",
+                "start": 19.36025,
+                "end": 19.52025,
+                "confidence": 0.989902
+              },
+              {
+                "word": "spicy",
+                "start": 19.52025,
+                "end": 20.00025,
+                "confidence": 0.9993949
+              },
+              {
+                "word": "drama",
+                "start": 20.00025,
+                "end": 20.40025,
+                "confidence": 0.99756634
+              },
+              {
+                "word": "going",
+                "start": 20.40025,
+                "end": 20.640251,
+                "confidence": 0.9137966
+              },
+              {
+                "word": "on",
+                "start": 20.640251,
+                "end": 20.800251,
+                "confidence": 0.99828786
+              },
+              {
+                "word": "that",
+                "start": 20.800251,
+                "end": 21.040249,
+                "confidence": 0.58321315
+              },
+              {
+                "word": "being",
+                "start": 21.040249,
+                "end": 21.28025,
+                "confidence": 0.99724543
+              },
+              {
+                "word": "said",
+                "start": 21.28025,
+                "end": 21.68025,
+                "confidence": 0.86027825
+              },
+              {
+                "word": "all",
+                "start": 21.68025,
+                "end": 21.92025,
+                "confidence": 0.9987956
+              },
+              {
+                "word": "these",
+                "start": 21.92025,
+                "end": 22.16025,
+                "confidence": 0.99610835
+              },
+              {
+                "word": "tools",
+                "start": 22.16025,
+                "end": 22.48025,
+                "confidence": 0.9996039
+              },
+              {
+                "word": "are",
+                "start": 22.48025,
+                "end": 22.640251,
+                "confidence": 0.999724
+              },
+              {
+                "word": "great",
+                "start": 22.640251,
+                "end": 22.880249,
+                "confidence": 0.9998667
+              },
+              {
+                "word": "to",
+                "start": 22.880249,
+                "end": 22.96025,
+                "confidence": 0.99919707
+              },
+              {
+                "word": "work",
+                "start": 22.96025,
+                "end": 23.200249,
+                "confidence": 0.99993277
+              },
+              {
+                "word": "with",
+                "start": 23.200249,
+                "end": 23.700249,
+                "confidence": 0.9282452
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
